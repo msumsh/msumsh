@@ -4,14 +4,14 @@ This page showcases my academic projects.
 
 ## Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-17+-blue?logo=c-plus-plus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-11+-orange?logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Go-1.20+-cyan?logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3.9+-green?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-yellow?logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-VersionControl-red?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/SQL-Database-purple?logo=postgresql&logoColor=white" alt="SQL"/>
+  ![C++](https://img.shields.io/badge/C++-blue)
+  ![Java](https://img.shields.io/badge/Java-orange)
+  ![Go](https://img.shields.io/badge/Go-cyan)
+  ![Python](https://img.shields.io/badge/Python-green)
+  ![Linux](https://img.shields.io/badge/Linux-yellow)
+  ![Git](https://img.shields.io/badge/Git-red)
+  ![Docker](https://img.shields.io/badge/Docker-blue)
+  ![SQL](https://img.shields.io/badge/SQL-purple)
 </p>
 
 
