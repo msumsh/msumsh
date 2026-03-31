@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Maria
-#### I am software engineering student
+#### My name is Maria. I am software engineering student
 This page showcases my academic projects.
 
 ## Skills
