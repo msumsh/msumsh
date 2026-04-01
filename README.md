@@ -1,5 +1,5 @@
-#### My name is Maria. I am software engineering student
-This page showcases my academic projects.
+#### My name is Maria. I am software engineering student.
+This page showcases my academic projects. 
 
 ## Skills
   ![C++](https://img.shields.io/badge/C++-blue)
