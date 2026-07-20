@@ -1,5 +1,7 @@
 #### My name is Maria. I am software engineering student.
 
+Interested in backend development and software testing.
+
 ## Skills
   ![Java](https://img.shields.io/badge/Java-orange)
   ![Python](https://img.shields.io/badge/Python-green)
