@@ -2,7 +2,7 @@
 
 Interested in backend development and software testing.
 
-## Skills
+#### Skills
   ![Java](https://img.shields.io/badge/Java-orange)
   ![Python](https://img.shields.io/badge/Python-green)
   ![C++](https://img.shields.io/badge/C++-blue)
